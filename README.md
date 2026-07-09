@@ -1,2 +1,19 @@
-# wine-quality-analysis
-Analyzed over 1,500 wine quality data points from Vinho Verde region with JMP Applied statistical analysis in JMP to identify chemical variables most strongly associated with wine quality across 1,500+ observations.  Collaborated with a team of four, contributing to different components of the class project
+# Spotify Genre Analysis
+
+This project analyzes Spotify song data using R.
+
+## Tools
+- R
+- Statistical analysis
+- Data visualization
+
+## Dataset
+- 500+ songs
+
+## Objectives
+- Explore genre distributions
+- Identify trends
+- Visualize findings
+
+## Results
+Created visualizations and identified genre patterns across the dataset.
